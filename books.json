@@ -1,0 +1,72 @@
+[
+    {
+        "id": 2,
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year_published": 1925,
+        "book_type": "Fiction"
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "author": "George Orwell",
+        "year_published": 1949,
+        "book_type": "Science Fiction"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year_published": 1813,
+        "book_type": "Romance"
+    },
+    {
+        "id": 5,
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year_published": 1951,
+        "book_type": "Fiction"
+    },
+    {
+        "id": 6,
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "year_published": 1932,
+        "book_type": "Science Fiction"
+    },
+    {
+        "id": 7,
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year_published": 1954,
+        "book_type": "Fantasy"
+    },
+    {
+        "id": 8,
+        "name": "Animal Farm",
+        "author": "George Orwell",
+        "year_published": 1945,
+        "book_type": "Fiction"
+    },
+    {
+        "id": 9,
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year_published": 1937,
+        "book_type": "Fantasy"
+    },
+    {
+        "id": 10,
+        "name": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year_published": 1953,
+        "book_type": "Science Fiction"
+    },
+    {
+        "id": 11,
+        "name": "The project",
+        "author": "Adma and Rita",
+        "year_published": "2023",
+        "book_type": "3"
+    }
+]

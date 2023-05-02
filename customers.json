@@ -1,0 +1,74 @@
+[
+  {
+    "customer_id": 1,
+    "name": "John Smith",
+    "city": "New York",
+    "age": 35
+  },
+  {
+    "customer_id": 2,
+    "name": "Jane Doe",
+    "city": "Los Angeles",
+    "age": 28
+  },
+  {
+    "customer_id": 3,
+    "name": "David Brown",
+    "city": "Chicago",
+    "age": 42
+  },
+  {
+    "customer_id": 4,
+    "name": "Sarah Johnson",
+    "city": "Houston",
+    "age": 19
+  },
+  {
+    "customer_id": 5,
+    "name": "Michael Lee",
+    "city": "San Francisco",
+    "age": 55
+  },
+  {
+    "customer_id": 6,
+    "name": "Emily Davis",
+    "city": "Boston",
+    "age": 30
+  },
+  {
+    "customer_id": 7,
+    "name": "William Taylor",
+    "city": "Dallas",
+    "age": 47
+  },
+  {
+    "customer_id": 8,
+    "name": "Grace Wilson",
+    "city": "Seattle",
+    "age": 24
+  },
+  {
+    "customer_id": 9,
+    "name": "Andrew Miller",
+    "city": "Atlanta",
+    "age": 38
+  },
+  {
+    "customer_id": 10,
+    "name": "Olivia Anderson",
+    "city": "Miami",
+    "age": 31
+  },
+  {
+    "customer_id": 11,
+    "name": "Rita Hramtsov-Levi",
+    "city": "Givatayim",
+    "age": 22
+  },
+  {
+    "customer_id": 12,
+    "name": "Rita",
+    "city": "TLV",
+    "age": 23
+  }
+]
